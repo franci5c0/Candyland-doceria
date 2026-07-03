@@ -97,9 +97,19 @@ footer.rodape {
   }
 
   article.about {
+    display: flex;
+      align-items: center;
     img.about-img {
       width: 150px;
       margin-right: 32px;
     }
-  }
+}
+/* faz parte do article.about */
+#home-img {
+  width: 130px;
+}
+
+.about-img:hover {
+  transform: scale(1.1);
+}
 }
