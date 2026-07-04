@@ -45,4 +45,12 @@ button.recipe-button {
     border-radius: 5px;
     cursor: pointer;
 }
+div.div-recipe {
+    text-align: center;
+
+    button.recipe-button {
+        
+        color: white;
+    }
+}
 }
