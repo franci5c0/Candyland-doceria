@@ -9,14 +9,13 @@ article.menu-article {
         justify-items: center;
 
     div.div-menu {
-    margin: 50px;
-        flex-direction: column;
+        margin: 50px;
         text-align: center;
         color: var(--text);
         font-size: 20px;
         font-family: "Croissant One";
         /* -webkit-text-stroke: 1px black; */
-            text-shadow: 4px 4px 4px rgba(0, 0, 0, 1.5);
+        text-shadow: 4px 4px 4px rgba(0, 0, 0, 1.5);
 
         img.img-menu {
             border-radius: 10px;
@@ -37,4 +36,13 @@ article.menu-article {
             border: 1px solid #ccc;
         }
     }
+button.recipe-button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
 }
