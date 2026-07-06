@@ -13,7 +13,7 @@
 header.topo {
   display: flex;
     flex-direction: column;
-  background-image: url(../images/top-footer.png);
+  background-image: url(../images/default-images/top-footer.png);
   background-size: cover;
   text-align: center;
   background-size: cover;
@@ -45,7 +45,7 @@ hr.line {
 }
 
 section.sessao {
-  background-image: url(../images/choco-background.png);
+  background-image: url(../images/default-images/choco-background.png);
   background-position: 0px -290px;
   background-size: cover;
   background-repeat: no-repeat;
@@ -63,7 +63,7 @@ section.sessao {
 }
 
 footer.rodape {
-  background-image: url(../images/top-footer.png);
+  background-image: url(../images/default-images/top-footer.png);
   background-size: cover;
   display: flex;
   justify-content: space-between;
