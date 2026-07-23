@@ -38,20 +38,28 @@ article.menu-article {
             border: 1px solid #ccc;
         }
     }
-button.cart-button {
-    display: block;
-    margin: 10px auto;
-    padding: 10px 20px;
-    font-size: 14px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
+
 div.div-button {
     text-align: center;
 
     button.cart-button {
-        color: 8B4513;
+        display: block;
+        margin: 10px auto;
+        padding: 10px 20px;
+        font-size: 14px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        }
     }
-}
+
+    button.recipe-button {
+        display: block;
+        margin: 10px auto;
+        padding: 10px 20px;
+        font-size: 14px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
 }
